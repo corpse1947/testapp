@@ -1,3 +1,3 @@
-function hello(params) {
+function hello() {
     alert ("Parampampam");
 }
